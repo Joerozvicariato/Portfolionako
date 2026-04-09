@@ -27,7 +27,7 @@ const Hero = () => {
         </div>
         <div className="hero-visual">
           <div className="hero-image">
-            <img src="1.png" alt="Joross Profile" className="1.png" />
+            <img src="/images/1.png" alt="Joross Profile" className="profile-image" />
           </div>
           <div className="hero-card">
             <div className="card-content">
