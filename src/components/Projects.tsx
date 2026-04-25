@@ -18,7 +18,7 @@ const Projects = () => {
       techStack: ['HTML', 'CSS', 'JavaScript', 'Responsive Design'],
       features: ['Event Details', 'RSVP System', 'Photo Gallery', 'Timeline', 'Guest Management'],
       codeUrl: 'https://github.com/joerozviocariato/wedding',
-      demoUrl: 'https://joerozviocariato.github.io/wedding/'
+      demoUrl: 'https://joerozvicariato.github.io/wedding/',
     },
     {
       id: 3,
